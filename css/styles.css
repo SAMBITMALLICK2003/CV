@@ -1,0 +1,432 @@
+.top {
+  background-image: url("bg.jpg");
+  height: 800px;
+  width: 1540px;
+  margin : -22px;
+}
+.p1 {
+  position: relative;
+  left: 50px;
+
+  border-radius: 100px;
+}
+.quote {
+  font-size: 40px;
+  color: white;
+  bottom: 5px;
+  left: 390px;
+  position: absolute;
+  display: inline-block;
+  font-family: 'Dawning of a New Day', cursive;
+}
+.top1 {
+
+  border-style: solid;
+  border-width: 5px;
+  border-color: #FAF7F0;
+  position: relative;
+  width: 350px;
+  padding: 40px;
+  top: 150px;
+  left: 200px;
+}
+.hr1 {
+  border-bottom: 0;
+  border-right: 0;
+  border-left: 0;
+  border-top: 5px;
+  border-style: dotted;
+}
+.top3 {
+  font-size: 20px;
+  position: relative;
+  width: 500px;
+  padding: 40px;
+  top: -400px;
+  left: 710px;
+}
+.cg {
+  font-size: 40px;
+  font-family: 'Kaushan Script', cursive;
+}
+.cg1 {
+  font-size: 22px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.top2 {
+  position: relative;
+  width: 600px;
+  padding: 40px;
+  top: -340px;
+  left: 700px;
+}
+.title {
+  position: relative;
+  text-align: center;
+  top: 10px;
+  font-family: 'Roboto Mono', monospace;
+}
+.title1 {
+  position: relative;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+.edu {
+  background-image: url("bg.png");
+  margin-top: 0;
+  position: absolute;
+  width: 1520px;
+  height: 600px;
+}
+.edu1{
+  position: relative;
+  font-family: 'Bodoni Moda', serif;
+}
+.e1 {
+  margin-left: 650px;
+  font-family: 'Roboto Slab', serif;
+  color: #7DE5ED;
+  font-size: 40px;
+}
+.i1 {
+  position: absolute;
+  border-radius: 1000px;
+  top: 70px;
+  left: 200px;
+}
+.edu1_1 {
+  position: absolute;
+  display: inline;
+  top: 90px;
+}
+.edu1_1_1 {
+  display: inline;
+  margin-left: 300px;
+}
+.edu1_1_2 {
+  position: absolute;
+  left: 300px;
+  margin-top: 0;
+  color: #FAC213;
+}
+.edu1_1_3 {
+  display: inline;
+  margin-left: 450px;
+  font-size: 20px;
+}
+.edu2_1 {
+  position: absolute;
+  display: inline;
+  top: 180px;
+}
+.edu2_1_1 {
+  display: inline;
+  margin-left: 300px;
+}
+.edu2_1_2 {
+  position: absolute;
+  left: 300px;
+  margin-top: 0;
+  color: #FAC213;
+}
+.edu2_1_3 {
+  display: inline;
+  margin-left: 450px;
+}
+.edu3_1 {
+  position: absolute;
+  display: inline;
+  top: 270px;
+}
+.edu3_1_1 {
+  display: inline;
+  margin-left: 300px;
+}
+.edu3_1_2 {
+  position: absolute;
+  left: 300px;
+  margin-top: 0;
+  color: #FAC213;
+}
+.edu3_1_3 {
+  display: inline;
+  margin-left: 190px;
+}
+body {
+  display: inline;
+  color: white;
+  background-color: black;
+}
+.course {
+  background-image: url("bg3.jpg");
+  margin-top: 430px;
+  position: absolute;
+  width: 1520px;
+  height: 600px;
+}
+.skill {
+  background-image: url("bg4.jpg");
+  margin-top: 1020px;
+  position: absolute;
+  width: 1520px;
+  height: 1300px;
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 15px;
+}
+.c1 {
+  margin-left: 525px;
+  margin-bottom: 100px;
+  font-family: 'Roboto Slab', serif;
+  color: #7DE5ED;
+  font-size: 40px;
+}
+.s1 {
+  font-family: 'Roboto Slab', serif;
+  color: #7DE5ED;
+  font-size: 40px;
+  text-align: center;
+}
+.co1_1 {
+  position: absolute;
+  display: inline;
+  top: 200px;
+}
+.co1_1_1 {
+  display: inline;
+  margin-left: 250px;
+}
+.co1_1_2 {
+  position: absolute;
+  left: 250px;
+  margin-top: 0;
+  color: #FAC213;
+}
+.co1_1_3 {
+  display: inline;
+  margin-left: 450px;
+  font-size: 25px;
+}
+.co1_1_4 {
+  display: inline-block;
+  margin-left: 1000px;
+  font-size: 18px;
+  width: 400px;
+  margin-top: 10px;
+}
+.co2_1_4 {
+  display: inline-block;
+  margin-left: 1000px;
+  font-size: 18px;
+  width: 400px;
+  margin-top: 10px;
+}
+.co2_1 {
+  position: absolute;
+  display: inline;
+  top: 300px;
+}
+.co2_1_1 {
+  display: inline;
+  margin-left: 250px;
+}
+.co2_1_2 {
+  position: absolute;
+  left: 250px;
+  margin-top: 0;
+  color: #FAC213;
+}
+.co2_1_3 {
+  display: inline;
+  margin-left: 400px;
+  font-size: 25px;
+}
+.co3_1 {
+  position: absolute;
+  display: inline;
+  top: 400px;
+}
+.co3_1_1 {
+  display: inline;
+  margin-left: 250px;
+}
+.co3_1_2 {
+  position: absolute;
+  left: 250px;
+  margin-top: 0;
+  color: #FAC213;
+}
+.co3_1_3 {
+  display: inline;
+  margin-left: 610px;
+  font-size: 25px;
+}
+.co3_1_4 {
+  display: inline-block;
+  margin-left: 1000px;
+  font-size: 18px;
+  width: 400px;
+  margin-top: 10px;
+}
+
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+  margin-left: 300px;
+  border-radius: 500px;
+  width: 60%; /* Full width */
+  background-color: white; /*  background */
+  font-size: 18px;
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: black; /* White text color */
+}
+.p2 {font-size: 25px; margin-left: 300px;}
+.html {border-radius: 50px;width: 90%; background-image: linear-gradient(to right, red , yellow);}
+.css {border-radius: 300px;width: 50%; background-image: linear-gradient(to right, red , yellow);} /* Blue */
+.js {border-radius: 300px;width: 0%; background-image: linear-gradient(to right, red , yellow);} /* Red */
+.pyt {border-radius: 500px;width: 70%; background-image: linear-gradient(to right, red , yellow);} /* Dark Grey */
+.c {border-radius: 500px;width: 80%; background-image: linear-gradient(to right, red , yellow);} /* Red */
+.java {border-radius: 500px;width: 30%; background-image: linear-gradient(to right, red , yellow);} /* Red */
+.mso {border-radius: 500px;width: 90%; background-image: linear-gradient(to right, red , yellow);} /* Red */
+.pho {border-radius: 500px;width: 60%; background-image: linear-gradient(to right, red , yellow);} /* Red */
+.ml {border-radius: 500px;width: 40%; background-image: linear-gradient(to right, red , yellow);} /* Red */
+
+.proj {
+  background-image: url("bg5.jpg");
+  width: 1520px;
+  height: 600px;
+  position: absolute;
+  top: 2400px;
+}
+.pr1 {
+  font-family: 'Roboto Slab', serif;
+  color:#7DE5ED ;
+  font-size: 40px;
+  text-align: center;
+}
+.pr2 {
+  margin-top: 70px;
+  margin-left: 400px;
+}
+
+.po1_1 {
+  position: absolute;
+  display: inline;
+  top: 190px;
+}
+.po1_1_1 {
+  display: inline;
+  margin-left: 250px;
+}
+.po1_1_2 {
+  position: absolute;
+  left: 250px;
+  margin-top: 0;
+  color: #FAC213;
+}
+.po1_1_3 {
+  display: inline-block;
+  position: absolute;
+  margin-left: 480px;
+  font-size: 18px;
+  width: 400px;
+  margin-top: 0px;
+}
+.po2_1_3 {
+  display: inline-block;
+  position: absolute;
+  margin-left: 510px;
+  font-size: 18px;
+  width: 400px;
+  margin-top: 10px;
+}
+.po2_1 {
+  position: absolute;
+  display: inline;
+  top: 350px;
+}
+.po2_1_1 {
+  display: inline;
+  margin-left: 250px;
+}
+.po2_1_2 {
+  position: absolute;
+  left: 250px;
+  margin-top: 0;
+  color: #FAC213;
+}
+.po3_1 {
+  position: absolute;
+  display: inline;
+  top: 450px;
+}
+.po3_1_1 {
+  display: inline;
+  margin-left: 250px;
+}
+.po3_1_2 {
+  position: absolute;
+  left: 250px;
+  margin-top: 0;
+  color: #FAC213;
+
+}
+.po3_1_3 {
+  display: inline-block;
+  position: absolute;
+  margin-left: 560px;
+  font-size: 18px;
+  width: 400px;
+  margin-top: 0px;
+}
+.cont {
+  width: 1520px;
+  height: 200px;
+  position: absolute;
+  top: 600px;
+}
+.cont1 {
+  font-family: 'Roboto Slab', serif;
+  color:#7DE5ED ;
+  font-size: 40px;
+  text-align: center;
+}
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: Navy;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: red;
+}
+
+/* Add a background color and some padding around the form */
+.container1 {
+  border-radius: 5px;
+  background-color: black;
+  padding: 20px;
+}
