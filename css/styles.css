@@ -13,10 +13,9 @@
 .quote {
   font-size: 40px;
   color: white;
-  bottom: 5px;
+  bottom: 0px;
   left: 390px;
   position: absolute;
-  display: inline-block;
   font-family: 'Dawning of a New Day', cursive;
 }
 .top1 {
